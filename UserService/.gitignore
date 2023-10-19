@@ -19,6 +19,8 @@ target/
 *.iml
 *.ipr
 *.code
+../RatingService/.idea/
+*../RatingService/.idea/
 
 ### NetBeans ###
 /nbproject/private/
